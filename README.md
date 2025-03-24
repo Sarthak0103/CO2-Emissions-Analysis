@@ -18,9 +18,6 @@ This Power BI dashboard analyzes India's **CO₂ emissions trends**, sector-wise
 🔹 **Power BI** – Data visualization  
 🔹 **Excel / CSV** – Data storage  
 
-## 📸 Dashboard Preview  
-*(Attach a screenshot of your Power BI dashboard here)*  
-
 ---
 
 ### **📌 How to Use This Project**
@@ -29,10 +26,4 @@ This Power BI dashboard analyzes India's **CO₂ emissions trends**, sector-wise
 3️⃣ Gain insights into India's CO₂ emissions and sector-wise impact.  
 
 ---
-
-## 📢 Let's Connect!  
-📌 **[Your LinkedIn Profile]** | 🌐 **[Your Portfolio (if any)]**  
-
----
-
-Let me know if you need any modifications! 🚀😊  
+ 
